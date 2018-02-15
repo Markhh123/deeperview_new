@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "DEEPVIEW_TAB", "DEEPVIEW_TAB\DEEPVIEW_TAB.smproj", "{00F085DE-DB73-475A-8AC2-6EAE3DA84725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x64 = Development|x64
+		Development|x86 = Development|x86
+		test|x64 = test|x64
+		test|x86 = test|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.Development|x64.ActiveCfg = Development|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.Development|x64.Build.0 = Development|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.Development|x86.ActiveCfg = Development|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.Development|x86.Build.0 = Development|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.Development|x86.Deploy.0 = Development|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.test|x64.ActiveCfg = test|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.test|x86.ActiveCfg = test|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.test|x86.Build.0 = test|x86
+		{00F085DE-DB73-475A-8AC2-6EAE3DA84725}.test|x86.Deploy.0 = test|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

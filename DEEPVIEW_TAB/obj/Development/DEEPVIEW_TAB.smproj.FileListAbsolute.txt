@@ -1,0 +1,24 @@
+C:\Users\mark.hornsby\documents\visual studio 2010\projects\DEEPVIEW_TAB\DEEPVIEW_TAB\bin\Model.asdatabase
+C:\Users\mark.hornsby\documents\visual studio 2010\projects\DEEPVIEW_TAB\DEEPVIEW_TAB\bin\Model.deploymenttargets
+C:\Users\mark.hornsby\documents\visual studio 2010\projects\DEEPVIEW_TAB\DEEPVIEW_TAB\bin\Model.deploymentoptions
+C:\Users\mark.hornsby\documents\visual studio 2010\projects\DEEPVIEW_TAB\DEEPVIEW_TAB\obj\Development\Model.asdatabase
+C:\Users\mark.hornsby\documents\visual studio 2010\projects\DEEPVIEW_TAB\DEEPVIEW_TAB\obj\Development\Model.deploymentoptions
+C:\Users\mark.hornsby\documents\visual studio 2010\projects\DEEPVIEW_TAB\DEEPVIEW_TAB\obj\Development\Model.deploymenttargets
+C:\DEEPVIEW_TAB\DEEPVIEW_TAB\bin\Model.asdatabase
+C:\DEEPVIEW_TAB\DEEPVIEW_TAB\bin\Model.deploymenttargets
+C:\DEEPVIEW_TAB\DEEPVIEW_TAB\bin\Model.deploymentoptions
+C:\DEEPVIEW_TAB\DEEPVIEW_TAB\obj\Development\Model.asdatabase
+C:\DEEPVIEW_TAB\DEEPVIEW_TAB\obj\Development\Model.deploymentoptions
+C:\DEEPVIEW_TAB\DEEPVIEW_TAB\obj\Development\Model.deploymenttargets
+C:\deeperview_new\DEEPVIEW_TAB\bin\Model.asdatabase
+C:\deeperview_new\DEEPVIEW_TAB\bin\Model.deploymenttargets
+C:\deeperview_new\DEEPVIEW_TAB\bin\Model.deploymentoptions
+C:\deeperview_new\DEEPVIEW_TAB\obj\Development\Model.asdatabase
+C:\deeperview_new\DEEPVIEW_TAB\obj\Development\Model.deploymentoptions
+C:\deeperview_new\DEEPVIEW_TAB\obj\Development\Model.deploymenttargets
+C:\deeperview_new_1\deeperview_new\DEEPVIEW_TAB\bin\Model_1.asdatabase
+C:\deeperview_new_1\deeperview_new\DEEPVIEW_TAB\bin\Model_1.deploymenttargets
+C:\deeperview_new_1\deeperview_new\DEEPVIEW_TAB\bin\Model_1.deploymentoptions
+C:\deeperview_new_1\deeperview_new\DEEPVIEW_TAB\obj\Development\Model_1.asdatabase
+C:\deeperview_new_1\deeperview_new\DEEPVIEW_TAB\obj\Development\Model_1.deploymentoptions
+C:\deeperview_new_1\deeperview_new\DEEPVIEW_TAB\obj\Development\Model_1.deploymenttargets
