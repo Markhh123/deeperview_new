@@ -1370,6 +1370,7 @@
           {
             "name": "activeviewtime_count",
             "dataType": "int64",
+            "isHidden": true,
             "sourceColumn": "activeviewtime_count"
           },
           {
@@ -1476,7 +1477,11 @@
                 ",isnull(fm.totalimpressionsunfiltered, 0 ) as totalimpressionsunfiltered",
                 ",isnull(fm.nhtmeasurableimpressions, 0 ) as nhtmeasurableimpressions",
                 ",isnull(fm.nht_totalimpressions, 0 ) as nht_totalimpressions",
-                ",isnull(fm.totalinteractions, 0) as totalinteractions",
+                ",isnull(fm.totalinteractions, 0) as totalinteractions,activeviewtime_count,",
+                "activeviewtime_31secs,",
+                "activeviewtime_5_31sec",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -1583,7 +1588,11 @@
                   ",isnull(fm.totalimpressionsunfiltered, 0 ) as totalimpressionsunfiltered",
                   ",isnull(fm.nhtmeasurableimpressions, 0 ) as nhtmeasurableimpressions",
                   ",isnull(fm.nht_totalimpressions, 0 ) as nht_totalimpressions",
-                  ",isnull(fm.totalinteractions, 0) as totalinteractions",
+                  ",isnull(fm.totalinteractions, 0) as totalinteractions,activeviewtime_count,",
+                  "activeviewtime_31secs,",
+                  "activeviewtime_5_31sec",
+                  "",
+                  "",
                   "",
                   "",
                   "",
