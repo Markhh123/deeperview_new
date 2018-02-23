@@ -25,7 +25,7 @@
     <DeploymentServerName>FTSQL003-WVIR-D\DEEPERVIEW_TAB</DeploymentServerName>
     <DeploymentServerEdition>Developer</DeploymentServerEdition>
     <DeploymentServerVersion>Version_11_0</DeploymentServerVersion>
-    <DeploymentServerDatabase>DEEPVIEW_TAB</DeploymentServerDatabase>
+    <DeploymentServerDatabase>TEST_RESTORE</DeploymentServerDatabase>
     <DeploymentServerCubeName>Model</DeploymentServerCubeName>
     <DeploymentOptionProcessing>DoNotProcess</DeploymentOptionProcessing>
     <DeploymentOptionTransactionalDeployment>False</DeploymentOptionTransactionalDeployment>
@@ -37,7 +37,7 @@
     <DeploymentServerName>FTSQL003-WVIR-D\DEEPERVIEW_TAB</DeploymentServerName>
     <DeploymentServerEdition>Developer</DeploymentServerEdition>
     <DeploymentServerVersion>Version_11_0</DeploymentServerVersion>
-    <DeploymentServerDatabase>DEEPVIEW_TAB</DeploymentServerDatabase>
+    <DeploymentServerDatabase>TEST_RESTORE</DeploymentServerDatabase>
     <DeploymentServerCubeName>Model</DeploymentServerCubeName>
     <DeploymentOptionProcessing>DoNotProcess</DeploymentOptionProcessing>
     <DeploymentOptionTransactionalDeployment>False</DeploymentOptionTransactionalDeployment>
